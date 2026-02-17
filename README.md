@@ -16,8 +16,6 @@ Where parameters $a_r$ and $b_r$ are derived from the roll number **102303651**:
 - $b_r = 0.3 \times (102303651 \pmod 5 + 1) = 0.6$
 
 ### Parameter Estimation
-The transformed data $z$ is fitted to the target PDF:
-$$ \hat{p}(z) = c \cdot e^{-\lambda(z-\mu)^2} $$
 
 The estimated parameters are:
 - **c** $\approx$ 0.0315
